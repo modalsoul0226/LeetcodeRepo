@@ -7,9 +7,9 @@ Backup for my LeetCode practices.
 - [x] 4. Median of Two Sorted Arrays    		            <!--23.2%	Hard-->	
 - [x] 5. Longest Palindromic Substring    		            <!--25.4%	Medium-->	
 - [x] 6. ZigZag Conversion    		                        <!--27.5%	Medium	-->
-- [ ] 7. Reverse Integer    		                        <!--24.4%	Easy	-->
-- [ ] 8. String to Integer (atoi)    		                <!--14.1%	Medium	-->
-- [ ] 9. Palindrome Number    		                        <!--36.2%	Easy	-->
+- [x] 7. Reverse Integer    		                        <!--24.4%	Easy	-->
+- [x] 8. String to Integer (atoi)    		                <!--14.1%	Medium	-->
+- [x] 9. Palindrome Number    		                        <!--36.2%	Easy	-->
 - [ ] 10. Regular Expression Matching    		            <!--24.3%	Hard	-->
 - [ ] 11. Container With Most Water    		                <!--37.2%	Medium	-->
 - [ ] 12. Integer to Roman    		                        <!--46.4%	Medium	-->
