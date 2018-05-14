@@ -1,5 +1,5 @@
 # LeetcodeRepo
-Backup for my LeetCode practices.
+Backup for my LeetCode practices in C/C++/Python/Java.
 
 - [x] 1. Two Sum    		                                <!-- 38.2%	Easy -->	
 - [x] 2. Add Two Numbers    		                        <!--28.7%	Medium-->
