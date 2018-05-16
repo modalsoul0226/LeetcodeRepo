@@ -12,15 +12,15 @@ Backup for my LeetCode practices in C/C++/Python/Java.
 - [x] 9. Palindrome Number    		                        <!--36.2%	Easy	-->
 - [ ] 10. Regular Expression Matching    		            <!--24.3%	Hard	-->
 - [ ] 11. Container With Most Water    		                <!--37.2%	Medium	-->
-- [ ] 12. Integer to Roman    		                        <!--46.4%	Medium	-->
+- [x] 12. Integer to Roman    		                        <!--46.4%	Medium	-->
 - [x] 13. Roman to Integer    		                        <!--48.3%	Easy	-->
 - [x] 14. Longest Common Prefix    		                    <!--31.6%	Easy	-->
 - [x] 15. 3Sum    		                                    <!--21.8%	Medium	-->
 - [ ] 16. 3Sum Closest    		                            <!--31.8%	Medium	-->
-- [ ] 17. Letter Combinations of a Phone Number    		    <!--36.8%	Medium	-->
+- [x] 17. Letter Combinations of a Phone Number    		    <!--36.8%	Medium	-->
 - [ ] 18. 4Sum    		                                    <!--27.6%	Medium	-->
-- [ ] 19. Remove Nth Node From End of List    		        <!--34.0%	Medium	-->
-- [ ] 20. Valid Parentheses    		                        <!--34.1%	Easy	-->
+- [x] 19. Remove Nth Node From End of List    		        <!--34.0%	Medium	-->
+- [x] 20. Valid Parentheses    		                        <!--34.1%	Easy	-->
 - [x] 21. Merge Two Sorted Lists    		                <!--41.5%	Easy	-->
 - [ ] 22. Generate Parentheses    		                    <!--48.4%	Medium	-->
 - [ ] 23. Merge k Sorted Lists    		                    <!--28.4%	Hard	-->
