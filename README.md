@@ -13,20 +13,20 @@ Backup for my LeetCode practices in C/C++/Python/Java.
 - [ ] 10. Regular Expression Matching    		            <!--24.3%	Hard	-->
 - [ ] 11. Container With Most Water    		                <!--37.2%	Medium	-->
 - [ ] 12. Integer to Roman    		                        <!--46.4%	Medium	-->
-- [ ] 13. Roman to Integer    		                        <!--48.3%	Easy	-->
-- [ ] 14. Longest Common Prefix    		                    <!--31.6%	Easy	-->
-- [ ] 15. 3Sum    		                                    <!--21.8%	Medium	-->
+- [x] 13. Roman to Integer    		                        <!--48.3%	Easy	-->
+- [x] 14. Longest Common Prefix    		                    <!--31.6%	Easy	-->
+- [x] 15. 3Sum    		                                    <!--21.8%	Medium	-->
 - [ ] 16. 3Sum Closest    		                            <!--31.8%	Medium	-->
 - [ ] 17. Letter Combinations of a Phone Number    		    <!--36.8%	Medium	-->
 - [ ] 18. 4Sum    		                                    <!--27.6%	Medium	-->
 - [ ] 19. Remove Nth Node From End of List    		        <!--34.0%	Medium	-->
 - [ ] 20. Valid Parentheses    		                        <!--34.1%	Easy	-->
-- [ ] 21. Merge Two Sorted Lists    		                <!--41.5%	Easy	-->
+- [x] 21. Merge Two Sorted Lists    		                <!--41.5%	Easy	-->
 - [ ] 22. Generate Parentheses    		                    <!--48.4%	Medium	-->
 - [ ] 23. Merge k Sorted Lists    		                    <!--28.4%	Hard	-->
 - [ ] 24. Swap Nodes in Pairs    		                    <!--39.4%	Medium	-->
 - [ ] 25. Reverse Nodes in k-Group    		                <!--31.9%	Hard	-->
-- [ ] 26. Remove Duplicates from Sorted Array    		    <!--36.6%	Easy	-->
+- [x] 26. Remove Duplicates from Sorted Array    		    <!--36.6%	Easy	-->
 - [ ] 27. Remove Element    		                        <!--41.0%	Easy	-->
 - [ ] 28. Implement strStr()    		                    <!--29.1%	Easy	-->
 - [ ] 29. Divide Two Integers    		                    <!--15.7%	Medium	-->
