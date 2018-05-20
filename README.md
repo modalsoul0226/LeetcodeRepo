@@ -33,7 +33,7 @@ Backup for my LeetCode practices in C/C++/Python/Java.
 - [ ] 30. Substring with Concatenation of All Words    		<!--22.3%	Hard	-->
 - [x] 31. Next Permutation    		                        <!--29.1%	Medium	-->
 - [ ] 32. Longest Valid Parentheses    		                <!--23.3%	Hard	-->
-- [ ] 33. Search in Rotated Sorted Array    		        <!--31.9%	Medium  -->
+- [x] 33. Search in Rotated Sorted Array    		        <!--31.9%	Medium  -->
 - [ ] 34. Search for a Range    		                    <!--31.7%	Medium	-->
 - [x] 35. Search Insert Position    		                <!--40.0%	Easy	-->
 - [ ] 36. Valid Sudoku    		                            <!--37.9%	Medium	-->
