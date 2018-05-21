@@ -34,9 +34,9 @@ Backup for my LeetCode practices in C/C++/Python/Java.
 - [x] 31. Next Permutation    		                        <!--29.1%	Medium	-->
 - [ ] 32. Longest Valid Parentheses    		                <!--23.3%	Hard	-->
 - [x] 33. Search in Rotated Sorted Array    		        <!--31.9%	Medium  -->
-- [ ] 34. Search for a Range    		                    <!--31.7%	Medium	-->
+- [x] 34. Search for a Range    		                    <!--31.7%	Medium	-->
 - [x] 35. Search Insert Position    		                <!--40.0%	Easy	-->
-- [ ] 36. Valid Sudoku    		                            <!--37.9%	Medium	-->
+- [x] 36. Valid Sudoku    		                            <!--37.9%	Medium	-->
 - [ ] 37. Sudoku Solver    		                            <!--32.3%	Hard	-->
 - [x] 38. Count and Say    		                            <!--36.9%	Easy	-->
 - [ ] 39. Combination Sum    		                        <!--41.8%	Medium	-->
