@@ -1,4 +1,4 @@
-# LeetcodeRepo 55/804
+# LeetcodeRepo 60/804
 Backup for my LeetCode practices in C/C++/Python/Java.
 
 - [x] 1. Two Sum    		                                <!-- 38.2%	Easy -->	
