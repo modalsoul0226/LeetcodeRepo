@@ -1,4 +1,4 @@
-# LeetcodeRepo 60/804
+# LeetcodeRepo 65/804
 Backup for my LeetCode practices in C/C++/Python/Java.
 
 - [x] 1. Two Sum    		                                <!-- 38.2%	Easy -->	
@@ -43,11 +43,11 @@ Backup for my LeetCode practices in C/C++/Python/Java.
 - [ ] 40. Combination Sum II    		                    <!--36.3%	Medium	-->
 - [ ] 41. First Missing Positive    		                <!--26.0%	Hard	-->
 - [ ] 42. Trapping Rain Water    		                    <!--37.8%	Hard	-->
-- [ ] 43. Multiply Strings    		                        <!--28.1%	Medium	-->
+- [x] 43. Multiply Strings    		                        <!--28.1%	Medium	-->
 - [ ] 44. Wildcard Matching    		                        <!--21.1%	Hard	-->
 - [ ] 45. Jump Game II    		                            <!--26.1%	Hard	-->
 - [ ] 46. Permutations    		                            <!--47.7%	Medium	-->
 - [ ] 47. Permutations II    		                        <!--35.4%	Medium	-->
-- [ ] 48. Rotate Image    		                            <!--42.2%	Medium	-->
+- [x] 48. Rotate Image    		                            <!--42.2%	Medium	-->
 - [ ] 49. Group Anagrams    		                        <!--38.9%	Medium	-->
 - [ ] 50. Pow(x, n)    
