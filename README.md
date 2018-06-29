@@ -1,4 +1,5 @@
-# LeetcodeRepo 108/804
+# LeetcodeRepo
+`Easy: 84` </br>`Medium: 49`</br> `Hard: 2`</br>
 Backup for my LeetCode practices in C/C++/Python/Java.
 
 - [x] 1. Two Sum    		                                <!-- 38.2%	Easy -->	
