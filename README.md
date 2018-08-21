@@ -1,5 +1,5 @@
 # LeetcodeRepo
-`Easy: 91` </br>`Medium: 84`</br> `Hard: 5`</br>
+`Easy: 92` </br>`Medium: 93`</br> `Hard: 5`</br>
 Backup for my LeetCode practices in C/C++/Python/Java.
 
 - [x] 1. Two Sum    		                                <!-- 38.2%	Easy -->	
